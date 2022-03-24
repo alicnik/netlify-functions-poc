@@ -1,0 +1,20 @@
+{
+  "name": "netlify-functions-poc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alicnik/netlify-functions-poc.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alicnik/netlify-functions-poc/issues"
+  },
+  "homepage": "https://github.com/alicnik/netlify-functions-poc#readme"
+}
